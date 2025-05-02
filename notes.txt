@@ -2,3 +2,5 @@ this is a line in a file
 this is the newest line
 this is a new section of the file
 Four score and seven years ago
+our fathers brought forth on this continent, a new nation
+THIS is a new line to push
